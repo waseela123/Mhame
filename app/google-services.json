@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065891386372",
+    "project_id": "mhame-aca80",
+    "storage_bucket": "mhame-aca80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065891386372:android:4f96e76cba41dea8795151",
+        "android_client_info": {
+          "package_name": "com.example.mhame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl3cAtxGBKS-4y9nWGJjEUJRsu-WK1ggA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
